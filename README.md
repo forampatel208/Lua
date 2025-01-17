@@ -42,13 +42,15 @@ To run these Lua scripts, ensure you have **Lua installed** on your system. You 
 ### Running a Script
 To run any Lua script, use:
 ```sh
-lua filename.lua
+lua filename.lua ```sh
 
 For example:
 
+```sh
 lua guess-game.lua
+```
 
-🎯 Why This Repository?
+##🎯 Why This Repository?
 
 This repository is a collection of Lua exercises and mini-projects that help me:
 
@@ -59,7 +61,7 @@ Experiment with various Lua features.
 Create reusable scripts for future projects.
 
 
-🤝 Contributing
+##🤝 Contributing
 
 If you have suggestions or improvements, feel free to fork this repo, create a pull request, or open an issue.
 
